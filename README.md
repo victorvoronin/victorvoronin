@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorvoronin
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS, Azure and Python
+- 👀 I’m Lead DevOps Engineer
+- 🌱 Ma main interests are Clouds and Kubernetes
 
 <!---
 victorvoronin/victorvoronin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
